@@ -1,0 +1,30 @@
+[
+    {
+        "id": "dh001",
+        "title": "敦煌月",
+        "author": "李白",
+        "calligraphy": "../calligraphy/poem1.jpg",
+        "background": "边塞"
+    },
+    {
+        "id": "dh002",
+        "title": "飞天赋",
+        "author": "王维",
+        "calligraphy": "../assets/calligraphy/poem2.jpg",
+        "background": "乐舞"
+    },
+    {
+        "id": "dh003",
+        "title": "九色鹿",
+        "author": "白居易",
+        "calligraphy": "../assets/calligraphy/poem3.jpg",
+        "background": "神话"
+    },
+    {
+        "id": "dh004",
+        "title": "阳关曲",
+        "author": "王之涣",
+        "calligraphy": "../assets/calligraphy/poem4.jpg",
+        "background": "离别"
+    }
+]
